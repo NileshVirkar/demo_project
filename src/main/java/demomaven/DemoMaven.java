@@ -20,6 +20,7 @@ public class DemoMaven {
 
 
 	public boolean unusedMethod_k(boolean k) {
+		//comment
 		boolean p=true;
 		return p;
 	}
