@@ -18,4 +18,9 @@ public class DemoMaven {
 		return p;
 	}
 
+
+	public boolean unusedMethod_k(boolean k) {
+		boolean p=true;
+		return p;
+	}
 }
