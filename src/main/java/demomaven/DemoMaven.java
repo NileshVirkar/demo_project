@@ -18,7 +18,9 @@ public class DemoMaven {
 		return p;
 	}
 
-
+	
+	//comment
+	//comment
 	public boolean unusedMethod_k(boolean k) {
 		unusedMethod2(true); unusedMethod2(true); unusedMethod2(true); unusedMethod2(true); unusedMethod2(true); unusedMethod2(true); unusedMethod2(true);
 		//comment
